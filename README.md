@@ -5,6 +5,8 @@
 3. Review your work against the Project Rubric (on the next page).
 4. When you are satisfied with your project, submit it according to the Submission Instructions on the next page.
 
+[vtse change]
+
 ### By the end:
 Your resume will look something like this
 ![](http://i.imgur.com/pWU1Xbl.png)
