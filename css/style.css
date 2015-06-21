@@ -48,6 +48,12 @@ h2, h3, h4, h5 {
   padding-right: 5%;
 }
 
+.online {
+  font-style: italic;
+  font-size: 20px;
+  color: #000000;
+  line-height: 22px;
+}
 
 .date-text {
   font-style: italic;
